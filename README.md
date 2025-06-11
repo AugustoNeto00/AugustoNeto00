@@ -59,10 +59,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://expressjs.com">
-    <img height="50em" style="background-color: #ffffff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.php.net">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   </a>      
 </div>
